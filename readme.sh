@@ -37,7 +37,7 @@ The model was trained on the training data.
 
 Evaluate the Model:
 # Clone the repository
-git clone https://github.com/rajbasnet123789/drug-review-sentiment-analysis.git
+git clone https://github.com/rajbasnet123789/SENTIMENTAL-ANALYSIS/tree/main
 
 # Navigate to the project directory
 cd drug-review-sentiment-analysis
